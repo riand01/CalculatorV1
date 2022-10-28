@@ -1,4 +1,4 @@
-CalculatorV1.6
+#CalculatorV1.6
 Vad beträffar design paterns så tyckte jag inte någon av dem var nödvändiga till min kalkylator då den är relativt enkel och ej innehåller några klasser som verkar vara designpatterns främsta syfte. Klasser och större projekt.
 
 Jag har till en början använt mig av en using static System.Console för att göra koden renare.
